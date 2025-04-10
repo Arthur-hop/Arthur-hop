@@ -18,6 +18,7 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/Arthur-hop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arthur-hop" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arthur-wei28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arthur-wei28" height="30" width="40" /></a>
 </p>
 
